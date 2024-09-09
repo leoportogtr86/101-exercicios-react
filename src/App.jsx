@@ -1,18 +1,10 @@
 import './App.css'
-import Produto from "./components/Produto/index.jsx";
+import ComEstado from "./components/ComEstado/index.jsx";
 
 function App() {
     return (
         <div>
-            <Produto
-                produto={
-                    {
-                        nome: "Nome",
-                        descricao: "Descrição",
-                        preco: 5000
-                    }
-                }
-            />
+            <ComEstado/>
         </div>
     )
 }
