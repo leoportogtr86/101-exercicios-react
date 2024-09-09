@@ -128,6 +128,4 @@ API com hooks.
 101. **Refatorar Chat Real-time**: Otimize o chat em tempo real utilizando técnicas avançadas com hooks.
 
 Essa lista deve cobrir desde os fundamentos do React até tópicos avançados, permitindo um aprendizado profundo e
-consistente ao longo dos exercícios.#   1 0 1 - e x e r c i c i o s - r e a c t  
- #   1 0 1 - e x e r c i c i o s - r e a c t  
- 
+consistente ao longo dos exercícios.
