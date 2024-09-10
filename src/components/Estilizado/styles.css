@@ -1,0 +1,7 @@
+p {
+    font-style: revert;
+    font-weight: bold;
+    display: flex;
+    font-family: Arial;
+    justify-content: center;
+}
