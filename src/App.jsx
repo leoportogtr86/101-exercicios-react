@@ -1,10 +1,10 @@
 import './App.css'
-import Condicional from "./components/Condicional/index.jsx";
+import Lista from "./components/Lista/index.jsx";
 
 function App() {
     return (
         <div>
-            <Condicional/>
+            <Lista/>
         </div>
     )
 }
