@@ -1,10 +1,10 @@
 import './App.css'
-import ComEstado from "./components/ComEstado/index.jsx";
+import Condicional from "./components/Condicional/index.jsx";
 
 function App() {
     return (
         <div>
-            <ComEstado/>
+            <Condicional/>
         </div>
     )
 }
