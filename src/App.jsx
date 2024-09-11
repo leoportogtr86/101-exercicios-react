@@ -1,10 +1,9 @@
-import Estilizado from "./components/Estilizado/index.jsx";
-import Formulario from "./components/Formulario/index.jsx";
+import ComponentePropTypes from "./components/ComponentePropTypes/index.jsx";
 
 function App() {
     return (
         <div>
-            <Formulario/>
+            <ComponentePropTypes propNum={10} propStr={"Teste"}/>
         </div>
     )
 }
