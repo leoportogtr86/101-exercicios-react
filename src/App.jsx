@@ -1,10 +1,10 @@
-import ComponentePropTypes from "./components/ComponentePropTypes/index.jsx";
 import ComponentePropDefault from "./components/ComponentePropDefault/index.jsx";
+import ComponenteFragment from "./components/ComponenteFragment/index.jsx";
 
 function App() {
     return (
         <div>
-            <ComponentePropDefault prop1={"Essa eu passei"}/>
+            <ComponenteFragment/>
         </div>
     )
 }
