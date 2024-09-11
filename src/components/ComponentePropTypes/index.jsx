@@ -1,3 +1,5 @@
+// 22. **PropTypes**: Adicione `PropTypes` para verificar o tipo das props.
+
 import PropTypes from "prop-types";
 
 const ComponentePropTypes = ({propStr, propNum}) => {

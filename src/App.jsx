@@ -1,9 +1,10 @@
 import ComponentePropTypes from "./components/ComponentePropTypes/index.jsx";
+import ComponentePropDefault from "./components/ComponentePropDefault/index.jsx";
 
 function App() {
     return (
         <div>
-            <ComponentePropTypes propNum={10} propStr={"Teste"}/>
+            <ComponentePropDefault prop1={"Essa eu passei"}/>
         </div>
     )
 }
